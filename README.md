@@ -35,10 +35,15 @@ This project solves these problems.
 🎯 Project Objectives
 No	Goal
 1	Understand the hospital database
+
 2	Perform SQL JOIN operations
+
 3	Analyze healthcare data
+
 4	Build business KPIs
+
 5	Generate healthcare insights
+
 6	Present SQL-based conclusions
 🧠 Skills Demonstrated
 
