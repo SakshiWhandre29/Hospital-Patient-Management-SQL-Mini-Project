@@ -85,3 +85,45 @@ Appointment → Bill (1:1)
 🧩 ER Diagram (Text View)
 patients (1) ---- (M) appointments (M) ---- doctors (1) ---- departments (1)
 appointments (1) ---- (1) bills
+
+
+
+📊 Business Questions Solved
+Beginner
+List all patients and their appointments
+
+List doctors and departments
+
+Show patients without appointments
+
+Doctors without departments
+
+Intermediate
+Appointments per department
+
+Pending appointments
+
+Cancelled appointments
+
+Advanced
+Department revenue
+
+Pending payments
+
+Most visited department
+
+Patients with multiple appointments
+
+🔍 Example Insights
+
+Cardiology generated the highest revenue
+
+Orthopedics performed maximum completed appointments
+
+Neurology has most pending payments
+
+Amit Sharma booked the most appointments
+
+💡 Tech Stack
+
+MySQL
