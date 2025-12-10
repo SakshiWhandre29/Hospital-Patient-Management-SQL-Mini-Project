@@ -1,0 +1,6 @@
+﻿appt_id,patient_id,doctor_id,status,appointment_date
+501,1,201,completed,12/10/2024
+502,2,202,completed,12/9/2024
+503,3,201,pending,12/8/2024
+504,3,203,completed,12/5/2024
+505,5,204,cancelled,12/3/2024
