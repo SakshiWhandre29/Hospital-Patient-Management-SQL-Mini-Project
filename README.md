@@ -1,4 +1,4 @@
-.
+
 
 🏥 Hospital Patient Management – SQL Mini Project
 
@@ -23,8 +23,11 @@ billing
 However, data is scattered and requires proper JOIN operations to generate meaningful insights such as:
 
 ❓ Which department generates highest revenue?
+
 ❓ Which patients have multiple appointments?
+
 ❓ How many pending payments?
+
 ❓ Which doctor performs most appointments?
 
 This project solves these problems.
